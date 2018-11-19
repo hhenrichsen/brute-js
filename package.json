@@ -1,0 +1,11 @@
+{
+  "name": "brute",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Hunter Henrichsen",
+  "license": "MIT"
+}
