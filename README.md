@@ -14,4 +14,4 @@ Bruteforces a string using ASCII codes to stdout.
 
 ### License
 
-See (LICENSE)[./LICENSE].
+See [LICENSE](./LICENSE).
